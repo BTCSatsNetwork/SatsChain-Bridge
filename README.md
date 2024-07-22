@@ -21,10 +21,6 @@
     - [Initiating a Transfer](#initiating-a-transfer)
     - [Monitoring Transaction Status](#monitoring-transaction-status)
     - [Withdrawing Assets](#withdrawing-assets)
-  - [Developer Guide](#developer-guide)
-    - [Setting Up the Environment](#setting-up-the-environment)
-    - [Deploying the Bridge Contract](#deploying-the-bridge-contract)
-    - [Running Relayers](#running-relayers)
   - [Troubleshooting](#troubleshooting)
   - [FAQ](#faq)
 
@@ -87,20 +83,6 @@ Explain how users can monitor the status of their transactions.
 ### Withdrawing Assets
 
 Detail the process for withdrawing assets once they are transferred.
-
-## Developer Guide
-
-### Setting Up the Environment
-
-Instructions for setting up the development environment for SatsChain Bridge.
-
-### Deploying the Bridge Contract
-
-Guide on deploying the bridge contract on the blockchain.
-
-### Running Relayers
-
-Instructions for setting up and running relayers.
 
 ## Troubleshooting
 
