@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [SatsChain Bridge](#satschain-bridge)
+  - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Architecture](#architecture)
     - [Overview](#overview)
