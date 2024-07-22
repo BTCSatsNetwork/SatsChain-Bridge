@@ -26,7 +26,13 @@
 
 ## Introduction
 
-Provide a brief introduction to the SatsChain Bridge, its purpose, and the problems it aims to solve.
+**SatsChain Bridge** (decentralized bridge) is an advanced technical solution designed to achieve decentralized asset transfers between Bitcoin assets (including BTC, BRC20, RUNES, etc.) and **SatsChain**.
+
+For BTC assets, **SatsChain Bridge** uses Taproot and Bitcoin SPV (Simplified Payment Verification) technology to achieve fully decentralized cross-chain asset transfers. This approach not only improves the security and privacy of cross-chain operations, but also simplifies the verification process.
+
+For BRC20 and RUNES assets, based on the cross-chain BTC asset, **SatsChain Bridge** introduces a decentralized indexing mechanism for parsing and processing BRC20/RUNES transactions. This mechanism ensures that cross-chain transfers of complex asset types also have decentralized characteristics, improving the flexibility and applicability of the overall system.
+
+Through these technological innovations, **SatsChain Bridge** achieves seamless connection between Bitcoin assets and SatsChain, providing users with a safe and efficient cross-chain asset transfer solution, and promoting further interoperability and development of the blockchain ecosystem.
 
 ## Architecture
 
