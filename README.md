@@ -40,7 +40,7 @@ Through these technical innovations, **SatsChain Bridge** achieves seamless conn
 
 ### Overview
 
-Give an overview of the bridge architecture, including a high-level diagram if possible.
+![SatsChain Bridge](./SatsChainBridge.png)
 
 ### Components
 
